@@ -1,0 +1,9 @@
+doctype html
+html
+  head
+    title= title
+  body
+    h1 #{title}
+    form(method='POST')
+      input(type='text', name='symbol', placeholder='ex. NFLX')
+      input(type='submit', name='find', value='Get quote')

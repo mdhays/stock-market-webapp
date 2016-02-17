@@ -26,6 +26,7 @@
     "lodash": "^4.3.0",
     "mongoose": "^4.4.3",
     "node-sass-middleware": "0.8.0",
+    "q": "^1.4.1",
     "request": "^2.69.0"
   }
 }
